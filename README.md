@@ -12,6 +12,14 @@ Instaladores dos apps do **NiwStreaming**, o streaming caseiro da família. Este
 3. Abra com dois cliques.
    - No Fedora, se não abrir, instale o FUSE: `sudo dnf install fuse fuse-libs`.
 
+## Android, FydeOS e Chromebook
+Baixe o `NiwStreaming-x.y.z-android.apk` e abra. Na primeira vez, permita instalar apps desta fonte.
+
+## Nintendo Switch (desbloqueado)
+1. Baixe o `NiwStreaming-Switch-x.y.z.nro`. Ele fica nas releases marcadas como "Switch".
+2. Copie para o cartão SD como `sd:/switch/NiwStreaming/NiwStreaming.nro`.
+3. Abra pelo Homebrew Menu, de preferência segurando R ao iniciar um jogo, para ter mais memória.
+
 ## Como usar
 - O app procura sozinho os servidores NiwStreaming na rede de casa. Clique no servidor e entre com o seu perfil e a senha dele.
 - **Trocar de servidor** e **Atualizar o app** ficam no menu do seu perfil (canto de cima), dentro do app.
